@@ -1,2 +1,3 @@
 Hi 
+This is sample text file
 DevOps first day training
